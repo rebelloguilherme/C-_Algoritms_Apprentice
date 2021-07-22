@@ -1,0 +1,7 @@
+C:\Users\guilh\source\repos\TryCatchUsing\TryCatchUsing\bin\Debug\TryCatchUsing.exe.config
+C:\Users\guilh\source\repos\TryCatchUsing\TryCatchUsing\bin\Debug\TryCatchUsing.exe
+C:\Users\guilh\source\repos\TryCatchUsing\TryCatchUsing\bin\Debug\TryCatchUsing.pdb
+C:\Users\guilh\source\repos\TryCatchUsing\TryCatchUsing\obj\Debug\TryCatchUsing.csproj.AssemblyReference.cache
+C:\Users\guilh\source\repos\TryCatchUsing\TryCatchUsing\obj\Debug\TryCatchUsing.csproj.CoreCompileInputs.cache
+C:\Users\guilh\source\repos\TryCatchUsing\TryCatchUsing\obj\Debug\TryCatchUsing.exe
+C:\Users\guilh\source\repos\TryCatchUsing\TryCatchUsing\obj\Debug\TryCatchUsing.pdb
