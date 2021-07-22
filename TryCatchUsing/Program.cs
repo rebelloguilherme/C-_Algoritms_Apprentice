@@ -4,6 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
+//In this example the exception is thrown automatically by the system.
 namespace TryCatchUsing
 {
     class Program
