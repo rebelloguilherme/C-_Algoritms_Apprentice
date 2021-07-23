@@ -25,7 +25,7 @@ namespace EnumUsing
         }
     }
 
-    class Program
+    class EnumUsageAndListAdding
     {
         
         static void Main()
@@ -37,7 +37,7 @@ namespace EnumUsing
             {
                 for (int y=1; y<14; y++)
                 {
-                    deck.Add(new Card((Suit)x, y)); //populando o deck com as cartas                                   
+                    deck.Add(new Card((Suit)x, y)); //populando o deck com as cartas, usado Cast (Suit) para permitir que Suit aceite índice inteiro                                 
                 }
             }
 
